@@ -7,7 +7,7 @@ public class EnemyController : MonoBehaviour
     float chaseSpeed;
     Transform target;
 
-    public void Update()
+    void Update()
     {
         
     }

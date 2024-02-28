@@ -7,7 +7,7 @@ public class GameController : MonoBehaviour
     GameObject player;
     GameObject enemy;
 
-    public void Start()
+    void Start()
     {
         
     }
